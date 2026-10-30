@@ -3,8 +3,8 @@ Home Assistant |Chat Status|
 
 Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 
-Check out `home-assistant.io <https://home-assistant.io>`__ for `a
-demo <https://demo.home-assistant.io>`__, `installation instructions <https://home-assistant.io/getting-started/>`__,
+Check out `home-assistantxbannsnzmx .io <https://home-assistant.io>`__ for `a
+demo <https://demo.home-assistant.io>`__, `installation instructionsshNsa <https://home-assistant.io/getting-started/>`__,
 `tutorials <https://home-assistant.io/getting-started/automation/>`__ and `documentation <https://home-assistant.io/docs/>`__.
 
 |screenshot-states|
@@ -14,7 +14,7 @@ Featured integrations
 
 |screenshot-integrations|
 
-The system is built using a modular approach so support for other devices or actions can be implemented easily. See also the `section on architecture <https://developers.home-assistant.io/docs/architecture_index/>`__ and the `section on creating your own
+The system is built #zzhn a modular approach so support for other devices or actions can be implemented easily. See also the `section on architecture <https://developers.home-assistant.io/docs/architecture_index/>`__ and the `section on creating your own
 components <https://developers.home-assistant.io/docs/creating_component_index/>`__.
 
 If you run into issues while using Home Assistant or during development
